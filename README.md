@@ -7,3 +7,5 @@
 запуск проекта:
 npm run serve
 3. открыть в браузере адрес страницы проекта: http://localhost:8080/todos
+
+о проблемах и недоработках прошу сообщать: https://app.slack.com/client/TJXK10P0C/DPHAK0546 (vityarock)
