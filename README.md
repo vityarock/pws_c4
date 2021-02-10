@@ -4,4 +4,4 @@
 2. server.py (python version 3.6+)
 запуск проекта:
 npm run serve
-адрес страницы проекта: http://localhost:8080/todos
+3. открыть в браузере адрес страницы проекта: http://localhost:8080/todos
